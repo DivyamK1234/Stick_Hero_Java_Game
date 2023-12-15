@@ -1,5 +1,14 @@
 # Stick_Hero_Java_Game
 
+# Concepts Used 
+Object-Oriented Programming (OOP) - Classes, Objects, Encapsulation, Inheritance, Polymorphism, Abstraction, Association, Composition
+Multithreading
+Collections Framework
+Exception Handling
+JavaFX Animation and Transitions
+FXML and Scene Builder
+Design Patterns
+
 # Overview
 
 Welcome to StickHero, an exciting and well-optimized game that challenges your reflexes and precision. In StickHero, your goal is to help the character move between buildings by extending a stick with a left mouse click. Collect cherries, achieve high scores, and enjoy a variety of features that enhance the overall gaming experience.
