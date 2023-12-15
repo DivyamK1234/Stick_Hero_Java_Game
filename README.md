@@ -1,8 +1,13 @@
 # Stick_Hero_Java_Game
 
 # Concepts Used 
-Object-Oriented Programming (OOP) - Classes, Objects, Encapsulation, Inheritance, Polymorphism, Abstraction, Association, Composition), Multithreading, Collections Framework, Exception Handling,
-JavaFX Animation and Transitions, FXML and Scene Builder, Design Patterns
+Object-Oriented Programming (OOP) - Classes, Objects, Encapsulation, Inheritance, Polymorphism, Abstraction, Association, Composition) 
+Multithreading, 
+Collections Framework, 
+Exception Handling,
+JavaFX Animation and Transitions, 
+FXML and Scene Builder, 
+Design Patterns
 
 # Overview
 
